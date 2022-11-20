@@ -1,4 +1,4 @@
-' Purpose: Alert of when a computer has been shutdown or rebooted
+' Alert when a computer has been shutdown
 
 ' Set Variables
 Currentdate = Date()
